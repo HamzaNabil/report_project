@@ -34,7 +34,7 @@ body {
 @media (min-width: 48em) {
   .container {
     margin: 2%;
-    width: 100%;
+    width: auto;
   }
 }
 @media (min-width: 75em) {
